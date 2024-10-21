@@ -4,7 +4,7 @@
 <h3 align="left">About Me</h3>
 
 - 🔭 I’m currently, looking for a working student job/internship/thesis.
-- 🌱 I’m currently studying at a href="https://www.fau.de/" target="blank">FAU</a> Erlangen an MSc in Data Science
+- 🌱 I’m currently studying at <a href="https://www.fau.de/" target="blank">FAU</a> Erlangen an MSc in Data Science
 - 💬 Ask me about  Data, Data Analysis, Data Science, Data Visualization, Machine Learning, and Artificial Intelligence.
 - 📫 How to reach me: redwanhossain.seu@gmail.com
 - ⚡ Fun fact: I thrive on transforming raw data into meaningful insights and uncovering patterns and trends that can unlock valuable information for decision-makers. I'm not just a data analyst, I'm a data detective on a mission to turn numbers into narratives! 📊🕵️‍♂️
