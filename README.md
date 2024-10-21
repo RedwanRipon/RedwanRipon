@@ -1,7 +1,8 @@
 ## Hi there 👋 I am Md Redwan Hossain,
 
+<iframe align="center" src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
+<h3 align="center">About Me</h3>
 
-<h3 align="left">About Me</h3>
 
 - 🔭 I’m currently, looking for a working student job/internship/thesis.
 - 🌱 I’m currently studying at <a href="https://www.fau.de/" target="blank">FAU</a> Erlangen an MSc in Data Science
