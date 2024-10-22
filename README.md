@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Md Redwan Hossain,
 
 ![Github](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
-<h6 align="left">About Me</h6>
+<h2 align="left">About Me</h2>
 
 
 - 🔭 I’m currently, looking for a working student job/internship/thesis.
